@@ -1,6 +1,6 @@
-## Learning Module Description
+# Learning Module Description
 The Pathway to Prosperity Seminar Series course is a personal, career, & financial success series designed to empower students. Read the items in this folder before and throughout the course.
-## Learning Module Content
+# Learning Module Content
 - Course Information & Syllabus
     - Start Here!
         - Syllabus
