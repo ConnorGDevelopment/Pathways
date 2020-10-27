@@ -23,4 +23,3 @@ https://www.youtube.com/watch?v=2EPoI8h8O0c&feature=emb_title
     <li>Did your instructor or tutor send a separate link to join?</li>
     <li>Are you in the right course? --> Each course has a different Course Room.</li>
 </ol>
-
