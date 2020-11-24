@@ -19,3 +19,5 @@ https://www.youtube.com/watch?v=2EPoI8h8O0c&feature=emb_title
 2. Were you supposed to enter a scheduled meeting or the Course Room? (Scheduled meetings will display as a second option in the drop down "Join Session" list.)
 3. Did your instructor or tutor send a separate link to join?
 4. Are you in the right course? --> Each course has a different Course Room.
+
+![Blackboard Collaborate Tips](/Welcome%20to%20GS%201010%20-%20Pathways%20to%20Prosperity\Blackboard%20Help%20-%20Videos%20and%20Tech%20Guides\Blackboard%20Collaborate%20Tips.jpg)

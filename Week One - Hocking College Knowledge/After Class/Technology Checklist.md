@@ -144,13 +144,13 @@ Complete every question. Click the black box "submit assignment" when you are do
     Go to <https://www.hocking.edu/> and click on "Self-Service" in the green ribbon.
     1. Click Student Planning/Plan & Schedule/Advising.
     2. Find your advisor.
-    3. Type your advisors' name in the editor, below.
-
+    3. Type your advisors' name in the editor, below.  
+    
     > Students can use the editor to answer
 
 ## Hocking College E-Mail
 - ## Question 8:
-    > 5 Point
+    > 5 Points
 
     **Sending Your Advisor a Professional Email**
     1. Sign into gmail by going to <https://mail.google.com/>
@@ -168,7 +168,7 @@ Complete every question. Click the black box "submit assignment" when you are do
 
 ## Calendar System
 - ## Question 9:
-    > 5 Point
+    > 5 Points
 
     **Keeping a Calendar**  
     All of you should keep some sort of calendar, whether it is a little journal where you list daily tasks, a paper planner, a wall calendar, or Google Calendar. Google calendar is nice because you can set reminders/alarms and it shows up on your phone.  
