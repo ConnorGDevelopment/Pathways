@@ -1,4 +1,5 @@
 # Check your grades!
+
 **Hey! It's week 4!**
 
 **Use the first 2 minutes of class to find your grade book, the paper and pencil icon on the top right of your class (and other classes), and CHECK YOUR GRADES. Note how you are doing. Are you meeting your goals?**

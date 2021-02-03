@@ -1,13 +1,17 @@
 # Technology Training Checklist
+
 ## What:
+
 This active web quest assignment will help you learn where to find HC resources online in this digital learning environment. It will also teach you how to obtain and use HC Technology such as Self-Service, Blackboard, Gmail, and Office 365.  
 
 For help with this assignment, book a tutoring session with any peer tutor. Booking information and tutoring times can be found here: <https://www.hocking.edu/academic-support>
 
 ## Think:
+
 Where will you "go" when you might not be able to actually "go" to campus (such as if you get sick, or if it is late at night)? With a strong understanding of our website, you'll be able to get most of your questions answered, no matter if you are on campus or not.
 
 ## Do:
+
 Follow the questions's instructions, step-by-step. Each question is like a checklist item that will teach you a Hocking tech skill.
 
 *Estimated Time to Complete: 20m-60m*
@@ -25,6 +29,7 @@ Complete every question. Click the black box "submit assignment" when you are do
 ## Hocking College Webpage
 
 - ## Question 1:
+
     > 5 Points
 
     **Using the Directory**  
@@ -46,6 +51,7 @@ Complete every question. Click the black box "submit assignment" when you are do
     | *Additional Answers* | *Roger Barrows* |
 
 - ## Question 2:
+
     > 4 Points  
 
     **Finding Tutoring Information**  
@@ -67,8 +73,8 @@ Complete every question. Click the black box "submit assignment" when you are do
     | | *Anthropology and Sociology <br> Sun: 12pm-5pm* |
     | | *Not available* |
 
-
 - ## Question 3:
+
     > 1 Point  
 
     **Finding Tutoring Information:**  
@@ -78,10 +84,11 @@ Complete every question. Click the black box "submit assignment" when you are do
     3. Is the bold statement below True or False?  
 
     **Hocking College offers free, online tutoring (in addition to in-person tutors at the library) through the OhioLINK eTutoring Collaborative.**
-    - **True**
-    - False
+  - **True**
+  - False
 
 - ## Question 4:
+
     > 1 Point  
 
     **The Library & the eCatalog**
@@ -100,6 +107,7 @@ Complete every question. Click the black box "submit assignment" when you are do
     (P.S. The Call # is the number you'd write down or take a picture of so you could find this book on the library's shelves.)
 
 - ## Question 5:
+
     > 1 Point
 
     **Career & University Center**
@@ -110,13 +118,14 @@ Complete every question. Click the black box "submit assignment" when you are do
     5. From your reading, which are the following below are benefits of coming to the Career Center? (Check all that apply).
 
     Choose at least one correct answer
-    - All of my homework will be completed.
-    - **I can explore different career tracks.**
-    - **I can explore different career tracks.**
-    - **I can prepare for an interview.**
-    - I can get peer tutoring.
+  - All of my homework will be completed.
+  - **I can explore different career tracks.**
+  - **I can explore different career tracks.**
+  - **I can prepare for an interview.**
+  - I can get peer tutoring.
 
 - ## Question 6:
+
     > 1 Point
 
     **Scheduling and Registration**
@@ -137,7 +146,9 @@ Complete every question. Click the black box "submit assignment" when you are do
     > You have a [responsibility] to become familiar with the college systems and program requirements and to seek out academic advice as you progress through your program.
 
 ## Self-Service Portal
+
 - ## Question 7:
+
     > 1 Point
 
     **Using Self-Service to Find Your Advisor**  
@@ -145,11 +156,13 @@ Complete every question. Click the black box "submit assignment" when you are do
     1. Click Student Planning/Plan & Schedule/Advising.
     2. Find your advisor.
     3. Type your advisors' name in the editor, below.  
-    
+
     > Students can use the editor to answer
 
 ## Hocking College E-Mail
+
 - ## Question 8:
+
     > 5 Points
 
     **Sending Your Advisor a Professional Email**
@@ -167,7 +180,9 @@ Complete every question. Click the black box "submit assignment" when you are do
     > File Attached: Professional Email Templates.docx
 
 ## Calendar System
+
 - ## Question 9:
+
     > 5 Points
 
     **Keeping a Calendar**  
@@ -181,7 +196,9 @@ Complete every question. Click the black box "submit assignment" when you are do
     > Students can use the editor to answer
 
 ## Office 365
+
 - ## Question 10
+
     > 1 Point
 
     **Getting your free Office 365 (Word, Excel, PowerPoint).**  
@@ -191,20 +208,5 @@ Complete every question. Click the black box "submit assignment" when you are do
 
     True or False: I have watched the video and will downloaded Office 365 onto the device I will use for college, if I want to. (We highly recommend this, as all of your classes will use Office 365 materials from time to time).
 
-    - **True**
-    - False
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  - **True**
+  - False

@@ -1,17 +1,22 @@
 # Know, Want to Know, Learned (KWL) (10 pts.)
+
 ## K-W-L Charts
+
 | **K** | **W** | **L** |
 | --- | --- | --- |
 | **What I know** | **What I want to know/learn** | **What I've learned (so far)** |
 
 ## Start of Class:
+
 **Know: Brainstorm what you already know about study skills and habits**  
 **Want to Know: Write some questions on what you might want to know about study skills and habits.**
 
 ## During/After Class:
+
 **Learned: Fill out this column with what you learned from the lecture**
 
 ### Student Example of how to apply a KWL Chart:
+
 | STEP 1: What I think I know: | STEP 2: What I want to know: | STEP 3: What I learned |  
 | --- | --- | --- |
 | Used in the car industry for construction | What types of robots are there? | Robot ethics sounds HARD |
@@ -28,20 +33,23 @@
 | Programmed based on different languages |
 
 - ## Question 1
-    > 3 Points 
+
+    > 3 Points
 
     **KNOW**
 
     > Students can use the editor to answer
 
 - ## Question 2
-    > 4 Points 
+
+    > 4 Points
 
     **WANT TO KNOW**
 
     > Students can use the editor to answer
 
 - ## Question 3
+
     > 3 Points
 
     **LEARNED**
