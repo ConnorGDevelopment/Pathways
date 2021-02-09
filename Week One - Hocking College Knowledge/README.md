@@ -10,7 +10,7 @@ First Assignment is 25pts, due by Sunday at 11:59pm. | First set of Quizzes are 
     - 2020-2021 Academic Calendar
       - Consider adding the autumn dates to your calendar, whether using a paper or a digital format.
     - [Electronic Resources & Technical Support Video](https://learn-us-east-1-prod-fleet01-xythos.s3.amazonaws.com/5df2c00b32acb/84257?response-cache-control=private%2C%20max-age%3D21600&response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27Electronic%2520Resources%2520%2526%2520Technical%2520Support%2520Video.mp4&response-content-type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20201027T180000Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Credential=AKIAZH6WM4PL5SJBSTP6%2F20201027%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=863e4ff6b074454598a04dea399f35247ae2fbf9fa9c6def491c6e20bccb7128)
-    - Consider watching this video tutorial to learn about HC Technology, Office 365, and more.
+      - Consider watching this video tutorial to learn about HC Technology, Office 365, and more.
 - During Class
   - You'll want to open these materials in a separate tab during class. One tab will be the Blackboard Collaborate session; the other, these materials.
     - W1 In-Class Attendance & Participation

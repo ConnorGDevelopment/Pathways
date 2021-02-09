@@ -19,7 +19,7 @@ The study habits you used in high school may or may not work so well in college.
     - [W5 Class Recording](https://learn-us-east-1-prod-fleet02-xythos.content.blackboardcdn.com/5df2c00b32acb/172550?X-Blackboard-Expiration=1606262400000&X-Blackboard-Signature=5OaH6Bw4%2B6gRLe0rEkRO8ubgiJmy957FfeYtxaqT0pc%3D&X-Blackboard-Client-Id=304933&response-cache-control=private%2C%20max-age%3D21600&response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27W5%2520Class%2520Recording.mp4&response-content-type=video%2Fmp4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20201124T180000Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Credential=AKIAZH6WM4PL5SJBSTP6%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e063f3c7ee73a59eb43fde4168e9426564aba36e7831b0000b3fdbd4f6a558e2)
 - After Class
   - Here's what you'll need to work on after our class. Note that some may simply be readings; others might be assignments worth points.
-    - Finish the "L" Columb of the KWL Chart (10 pts.)
+    - Finish the "L" Column of the KWL Chart (10 pts.)
     - Read About & Practice: Metacognitive Study Skills (25 points).
       - This assignment will have you read a short article and apply ONE of its recommendations to any assignment in any class of your choice.
     - Finish Your Vision Board! (Due 12 hours before you Week 6 Class)(30 points).
